@@ -1,7 +1,7 @@
 # Requirements
-NodeJS 10+
-NPM
-Port 3000 and 8080 not beign used
+* NodeJS 10+
+* NPM
+* Port 3000 and 8080 not beign used
 
 # Run locally
 * Open a terminal in the project root directory and run: npm install && npm run start
