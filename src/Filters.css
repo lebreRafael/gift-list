@@ -1,0 +1,24 @@
+.filters {
+  margin-bottom: 16px;
+}
+
+.filters label {
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.filters .input-wrapper {
+  display: inline;
+}
+
+.filters .input-wrapper + .input-wrapper {
+  margin-left: 24px;
+}
+
+.filters .input-wrapper input[name="priceMax"] {
+  margin-left: 4px;
+}
+
+.filters button {
+  float: right;
+}

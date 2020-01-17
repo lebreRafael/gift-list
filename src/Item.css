@@ -1,0 +1,23 @@
+.item {
+  border: lightgray 1px solid;
+  border-radius: 8px;
+  height: 500px;
+  margin: 0 8px 8px 0;
+  width: 250px;
+}
+
+.item img {
+  height: 400px;
+  width: inherit;
+}
+
+.item .name,
+.item .price {
+  display: block;
+  padding: 8px 0;
+  text-align: center;
+}
+
+.item .price {
+  color: dimgrey;
+}
